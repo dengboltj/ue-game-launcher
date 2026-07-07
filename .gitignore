@@ -1,0 +1,18 @@
+# Build outputs
+*.exe
+*.obj
+*.res
+*.pdb
+*.ilk
+
+# Local tools
+tools/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+Thumbs.db
+desktop.ini
